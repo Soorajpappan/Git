@@ -1,0 +1,32 @@
+.Content{
+    height: 250px;
+    width: 400px;
+    background-color: green;
+}
+
+.Padding{
+    height: 300px;
+    width: 350px;
+    padding: 30px;
+    background-color: yellow;
+}
+
+.Border{
+    height: 320px;
+    width: 300px;
+    padding: 25px;
+    border: 5px solid black;
+    background-color: red;
+    box-sizing: content-box;
+}
+
+
+.Margin{
+    height: 300px;
+    width: 300px;
+    padding: 25px 20px 30px 35px;
+    border: 7px dotted red;
+    margin: 20px;
+    background-color: palegoldenrod;
+    box-sizing: border-box;
+}
